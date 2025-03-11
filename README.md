@@ -28,4 +28,3 @@
 
 <p>💡 <b>Dica:</b> Caso de dúvidas ou sugestões, fique à vontade para abrir entrar em contato.</p>
 
-<p><b>Desenvolvido por <a href="https://github.com/YancaAlbuquerque">Yanca Albuquerque</a>.</b></p>
